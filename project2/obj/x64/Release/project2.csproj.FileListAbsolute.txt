@@ -1,0 +1,10 @@
+C:\Users\Thomas\source\repos\project2\project2\bin\x64\Release\project2.exe.config
+C:\Users\Thomas\source\repos\project2\project2\bin\x64\Release\project2.exe
+C:\Users\Thomas\source\repos\project2\project2\bin\x64\Release\project2.pdb
+C:\Users\Thomas\source\repos\project2\project2\obj\x64\Release\project2.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\project2\project2\obj\x64\Release\project2.Form1.resources
+C:\Users\Thomas\source\repos\project2\project2\obj\x64\Release\project2.Properties.Resources.resources
+C:\Users\Thomas\source\repos\project2\project2\obj\x64\Release\project2.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\project2\project2\obj\x64\Release\project2.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\project2\project2\obj\x64\Release\project2.exe
+C:\Users\Thomas\source\repos\project2\project2\obj\x64\Release\project2.pdb
